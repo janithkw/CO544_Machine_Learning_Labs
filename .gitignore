@@ -1,0 +1,16 @@
+*.whl
+# ignore Lab01/venv folder 
+Lab01/venv/
+# ignore Lab02/venv folder
+Lab02/venv/
+# ignore Lab03/venv folder
+Lab03/venv/
+# ignore Lab04/venv folder
+Lab04/venv/
+
+
+*.docx
+*.zip
+*.png
+*.jpg
+*.jpeg
